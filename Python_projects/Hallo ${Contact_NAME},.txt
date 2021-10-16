@@ -1,0 +1,4 @@
+Hallo ${Contact_NAME},
+
+Zeit für Verständis
+
